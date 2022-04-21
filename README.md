@@ -1,1 +1,1 @@
-# 2d - game
+# tic-tac-toe - game
